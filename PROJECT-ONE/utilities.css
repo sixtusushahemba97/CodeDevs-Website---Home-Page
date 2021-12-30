@@ -1,0 +1,30 @@
+:root {
+  --primary-color: radial-gradient(rebeccapurple, darkblue);
+  --secondary-color: rgb(0, 0, 255);
+  --assignment-color: #a9a9a9;
+  --light-color: #f4f4f4;
+  --dark-color: #555;
+  --radial-gradient: radial-gradient(#fff, #ff6b6b);
+  --regular-color: #20b2aa;
+  --personal-color: #000082;
+  --custom-color: #047aed;
+  --black-color: #000;
+  --fontstack: Arial, Helvetica, sans-serif;
+  --btn-1: #ffb6b6;
+  --mix-color: radial-gradient(#fff, #ffb6b6);
+  --btn-2: #1c520b;
+  --border-radius: 10px 30px;
+  --text-color: #fff;
+  --border: 1px solid #555;
+  --card-lines: #b4becb;
+  --background-color: #b0c4de;
+  --background: rgb(222, 234, 222);
+  --danger: red;
+  --warning: yellow;
+  --font-size: 1rem;
+  --font-weight: 600;
+  --font-weight: bold;
+  --blue-color: #0e6cff;
+  --padding: 20px;
+  --special-color: violet;
+}
